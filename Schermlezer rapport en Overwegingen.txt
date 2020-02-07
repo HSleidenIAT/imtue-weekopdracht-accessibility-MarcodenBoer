@@ -1,0 +1,10 @@
+Schermlezer rapport:
+
+Als je met een schermlezer de site wil navigeren kun je niet naar kopjes springen
+en je weet niet wanneer de kopjes en paragraven begginen/eindigen
+
+
+Overwegingen: 
+Om deze site nog toegankelijker te maken zou ik nog
+1. Maak hem goed voor mobiel met media query's
+2. Met javascript kan je op de comment form validatie toevoegen
